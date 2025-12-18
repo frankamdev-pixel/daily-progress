@@ -15,3 +15,4 @@ en développement web, design et branding personnel.
 
 - Un fichier par jour
 - Apprentissage réel, sans filtre
+- Je documente mon apprentissage et evolution quotidienne dans un journal public sur github
